@@ -23,6 +23,7 @@ dependencies:
   - osmnx
   - shapely
   - geopy
+  - nbserverproxy
   - pip:
       - carto
       - pyrestcli
