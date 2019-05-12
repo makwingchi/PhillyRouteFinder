@@ -23,5 +23,6 @@ dependencies:
   - osmnx
   - shapely
   - geopy
-  - pyrestcli
-  - carto
+  - pip:
+      - carto
+      - pyrestcli
